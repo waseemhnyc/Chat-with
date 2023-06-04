@@ -2,10 +2,6 @@ import os
 from langchain import PromptTemplate, OpenAI, LLMChain
 import chainlit as cl
 
-from dotenv import load_dotenv
-load_dotenv()
-
-
 template = """Question: {question}
 Answer: Let's think step by step."""
 
@@ -14,7 +10,8 @@ Answer: Let's think step by step."""
 def factory():
     prompt = PromptTemplate(template=template, input_variables=["question"])
     llm_chain = LLMChain(
-        prompt=prompt, llm=OpenAI(temperature=0), verbose=True)
+        prompt=prompt, llm=OpenAI(temperature=0), verbose=True
+    )
 
     return llm_chain
 
