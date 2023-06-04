@@ -4,6 +4,9 @@ Created with LangChain and Chainlit
 
 ## Roadmap 🛣
 
+Supported File Types
+
+- [ ] Text
 - [ ] PDF
 - [ ] Website
 - [ ] Excel/CSV
@@ -17,7 +20,7 @@ Created with LangChain and Chainlit
 Before you begin, ensure you have met the following requirements:
 
 - Installed a recent version of Python (3.7 or newer) installed and a way to create virtual environments (virtualenv or conda)
-- Created OpenAI API account and obtain an OpenAI API key
+- Created OpenAI API account and obtain an API key
 
 ## Getting Started
 
