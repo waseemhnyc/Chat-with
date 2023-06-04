@@ -6,9 +6,9 @@ Hey there 👋
 
 LangChain is a framework for developing applications powered by language models.
 
-[General Docs](https://docs.langchain.com/docs/)
-[Python Docs](https://python.langchain.com/en/latest/)
-[Discord Server](https://discord.gg/6adMQxSpJS)
+- [General Docs](https://docs.langchain.com/docs/)
+- [Python Docs](https://python.langchain.com/en/latest/)
+- [Discord Server](https://discord.gg/6adMQxSpJS)
 
 ## Get Started with Chainlit
 
