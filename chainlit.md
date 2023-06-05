@@ -1,6 +1,5 @@
-# Welcome to Chat With
+# Welcome to "Chat With" Chatbot
 
-Hey there 👋
 
 ## Get Started with LangChain
 

@@ -1,15 +1,15 @@
-# Chat with 👋
+# "Chat with" Chatbot - WIP👋
 
-Created with LangChain and Chainlit
+Chat with different types of data/sources. Created with LangChain and Chainlit.
 
 ## Roadmap 🛣
 
 Supported File Types
 
-- [ ] Text
+- [x] Text
 - [ ] PDF
-- [ ] Website
 - [ ] Excel/CSV
+- [ ] Website
 - [ ] Github Repo
 - [ ] Podcast
 - [ ] Youtube Video
