@@ -1,5 +1,15 @@
 # Welcome to "Chat With" Chatbot
 
+## Supported File Types
+
+- [x] Text
+- [ ] PDF
+- [ ] Excel/CSV
+- [ ] Website
+- [ ] Github Repo
+- [ ] Podcast
+- [ ] Youtube Video
+- [ ] Youtube Channel
 
 ## Get Started with LangChain
 
