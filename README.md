@@ -4,16 +4,17 @@ Chat with different types of data/sources. Created with LangChain and Chainlit.
 
 ## Roadmap 🛣
 
-Supported File Types
+Supported:
 
 - [x] Text
-- [ ] PDF
-- [ ] Excel/CSV
+- [x] PDF
+- [x] HTML
+- [x] CSV
 - [ ] Website
 - [ ] Github Repo
-- [ ] Podcast
 - [ ] Youtube Video
 - [ ] Youtube Channel
+- [ ] Podcast
 
 ## Prerequisites
 
